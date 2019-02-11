@@ -1,0 +1,47 @@
+[
+    {
+        "player_name": "Sachin Tendulkar",
+        "country": "India",
+        "sports": "Cricket"
+    },
+    {
+        "player_name": "Roger Federer",
+        "country": "Switzerland",
+        "sports": "Tennis"
+    },
+    {
+        "player_name": "David Beckham",
+        "country": "England",
+        "sports": "Football"
+    },
+    {
+        "player_name": "Tiger Woods",
+        "country": "USA",
+        "sports": "Golf"
+    },
+    {
+        "player_name": "Sebastian Vettel",
+        "country": "Germany",
+        "sports": "Formula One"
+    },
+    {
+        "player_name": "Maria Sharapova",
+        "country": "Russia",
+        "sports": "Tennis"
+    },
+    {
+        "player_name": "Viswanathan Anand",
+        "country": "India",
+        "sports": "Chess"
+    },
+    {
+        "player_name": "Mahendra Singh Dhoni",
+        "country": "India",
+        "sports": "Cricket"
+    },
+    {
+        "player_name": "Donald Bradman",
+        "country": "Australia",
+        "sports": "cricket"
+    }
+]
